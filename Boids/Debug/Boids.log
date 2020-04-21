@@ -1,0 +1,29 @@
+﻿  main.c
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(315,16): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(445,46): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(446,46): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(498,50): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(501,35): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(512,25): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(513,25): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(514,25): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(534,37): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(535,36): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(536,36): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(540,37): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(541,37): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(542,37): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(504,1): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(584,15): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(587,15): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(590,15): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(593,15): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(655,18): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(684,17): warning C4244:  'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(704,10): warning C4244:  '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(706,22): warning C4244:  'function': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(709,25): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(709,31): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(709,37): warning C4244:  'function': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\main.c(45): warning C4716:  'data': must return a value
+  Boids.vcxproj -> C:\Users\nickj\Desktop\CODE\C++ Projects\Boids\Debug\Boids.exe

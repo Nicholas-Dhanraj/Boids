@@ -1,0 +1,18 @@
+	 glBegin(GL_LINE_STRIP);
+
+	 glTranslatef(0, 5, 0);
+
+	 float z = 0.0f;
+	 for (float angle = 0.0f; angle <= (2.0f * 3.14) * 3.0f; angle += 0.1f)
+	 {
+		 float x = 50.0f * sin(angle) * 0.02 ;
+		 float y = 50.0f * cos(angle) * 0.02 + 2;
+
+		 // Specify the point and move the z value up a little 
+		 glVertex3f(x, y, z);
+		 z += 0.5f * 0.1;
+	 }
+
+	 // Done drawing points
+	 glEnd();
+/////
